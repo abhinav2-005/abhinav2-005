@@ -58,6 +58,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
-  <!-- TinkerCAD Logo (resized to match icon height) -->
+  <!-- TinkerCAD -->
   <img src="https://github.com/user-attachments/assets/6ced9c0f-d11e-4a1b-a7dc-943b3ef05984" alt="TinkerCAD Logo" height="40" />
+  <img width="12" />
+  <!-- Additional Tools -->
+  <img src="https://github.com/user-attachments/assets/4730f247-d732-43ad-bc93-54acf67327d5" alt="extra tool 1" height="40" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/a39881da-c0e9-4130-bfed-ee77ba753808" alt="extra tool 2" height="40" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/32a795ee-91c3-4618-8fa2-0c440010806f" alt="extra tool 3" height="40" />
 </div>
