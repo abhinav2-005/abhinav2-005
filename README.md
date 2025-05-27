@@ -52,11 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-</div>
-
-###
-
-<!-- Resized image -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6ced9c0f-d11e-4a1b-a7dc-943b3ef05984" alt="image" height="200" />
+  <img width="12" />
+  <!-- TinkerCAD Logo -->
+  <img src="https://github.com/user-attachments/assets/6ced9c0f-d11e-4a1b-a7dc-943b3ef05984" alt="TinkerCAD Logo" height="40" />
 </div>
