@@ -20,7 +20,12 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Abhinav!<br>🎓 Aspiring Electronics & Communication Engineering student at SRU @2026<br>💻 Currently pursuing a Bachelor’s in Electronics and Communication Engineering at SR University (GPA: 9.2/10).<br>🌟 Skilled in Python, Java, HTML/CSS, and JavaScript, alongside hands-on experience in analog/digital communications, microelectronics, control systems, and tools like MATLAB and LTSpice. Passionate about bridging the gap between hardware and software through interactive projects.</p>
+<p align="left">
+  👋 Hello, I'm Abhinav!<br>
+  🎓 Aspiring Electronics & Communication Engineering student at SRU @2026<br>
+  💻 Currently pursuing a Bachelor’s in Electronics and Communication Engineering at SR University (GPA: 9.2/10).<br>
+  🌟 Skilled in Python, Java, HTML/CSS, and JavaScript, alongside hands-on experience in analog/digital communications, microelectronics, control systems, and tools like MATLAB and LTSpice. Passionate about bridging the gap between hardware and software through interactive projects.
+</p>
 
 ###
 
@@ -53,6 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
-  <!-- TinkerCAD Logo -->
+  <!-- TinkerCAD Logo (resized to match icon height) -->
   <img src="https://github.com/user-attachments/assets/6ced9c0f-d11e-4a1b-a7dc-943b3ef05984" alt="TinkerCAD Logo" height="40" />
 </div>
