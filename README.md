@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
@@ -44,8 +46,6 @@
   <img width="12" />
   <!-- TinkerCAD -->
   <img src="https://github.com/user-attachments/assets/6ced9c0f-d11e-4a1b-a7dc-943b3ef05984" alt="TinkerCAD Logo" height="40" />
-  <img width="12" />
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" height="40" />
   <img width="12" />
 
   <!-- Additional Tools -->
