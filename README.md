@@ -45,6 +45,9 @@
   <!-- TinkerCAD -->
   <img src="https://github.com/user-attachments/assets/6ced9c0f-d11e-4a1b-a7dc-943b3ef05984" alt="TinkerCAD Logo" height="40" />
   <img width="12" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" height="40" />
+  <img width="12" />
+
   <!-- Additional Tools -->
   <img src="https://github.com/user-attachments/assets/4730f247-d732-43ad-bc93-54acf67327d5" alt="extra tool 1" height="40" />
   <img width="12" />
