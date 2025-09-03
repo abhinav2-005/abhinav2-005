@@ -59,6 +59,8 @@
 <p>✔️ <strong>100 Days of Code: Python Pro Bootcamp</strong></p>
 <p>✔️ <strong>Python Data Structures & Algorithms + LeetCode Challenges</strong></p>
 <p>✔️ <strong>SQL Fundamentals</strong></p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhinav2-005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhinav2-005&theme=dark&hide_border=false)<br/>
