@@ -57,6 +57,9 @@
   <img src="https://github.com/user-attachments/assets/a39881da-c0e9-4130-bfed-ee77ba753808" alt="extra tool 2" height="40" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/32a795ee-91c3-4618-8fa2-0c440010806f" alt="extra tool 3" height="40" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="60" height="60"/>
+
 </div>
 <h3>📜 Certifications</h3>
 <p>✔️ <strong>100 Days of Code: Python Pro Bootcamp</strong></p>
