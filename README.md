@@ -10,7 +10,12 @@
   💻 Currently pursuing a Bachelor’s in Electronics and Communication Engineering at SR University (GPA: 9.2/10).<br>
   🌟 Skilled in Python, Java, HTML/CSS, and JavaScript, alongside hands-on experience in analog/digital communications, microelectronics, control systems, and tools like MATLAB and LTSpice. Passionate about bridging the gap between hardware and software through interactive projects.
 </p>
-
+<p>
+Do Visit My: 
+<a href ="https://www.linkedin.com/in/abhinavraavi/">LinkedIn </a>|
+<a href ="https://abhina.me/">Portfolio </a>|
+<a href ="https://leetcode.com/u/codebyabhinav/"> LeetCode </a>
+  
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
