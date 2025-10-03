@@ -12,9 +12,9 @@
 </p>
 <p>
 Do Visit My: 
-<a href ="https://www.linkedin.com/in/abhinavraavi/">LinkedIn </a>|
-<a href ="https://abhina.me/">Portfolio </a>|
-<a href ="https://leetcode.com/u/codebyabhinav/"> LeetCode </a>
+<a href ="https://www.linkedin.com/in/abhinavraavi/" target = "_blank">LinkedIn </a>|
+<a href ="https://abhina.me/" target = "_blank">Portfolio </a>|
+<a href ="https://leetcode.com/u/codebyabhinav/" target = "_blank"> LeetCode </a>
   
 ###
 
